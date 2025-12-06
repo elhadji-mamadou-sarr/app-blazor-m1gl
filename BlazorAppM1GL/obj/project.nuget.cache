@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "zleXyql31ak=",
+  "success": true,
+  "projectFilePath": "/Users/elhadjimamadousarr/Desktop/projet/dotnet/BlazorAppM1GL/BlazorAppM1GL/BlazorAppM1GL.csproj",
+  "expectedPackageFiles": [
+    "/Users/elhadjimamadousarr/.nuget/packages/microsoft.aspnetcore.app.internal.assets/10.0.0/microsoft.aspnetcore.app.internal.assets.10.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
