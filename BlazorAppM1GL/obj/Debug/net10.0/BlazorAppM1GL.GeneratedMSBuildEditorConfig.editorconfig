@@ -1,14 +1,22 @@
 is_global = true
 build_property.TargetFramework = net10.0
-build_property.TargetFrameworkIdentifier = .NETCoreApp
-build_property.TargetFrameworkVersion = v10.0
+build_property.TargetFramework = net10.0
+build_property.TargetPlatformMinVersion = 
 build_property.TargetPlatformMinVersion = 
 build_property.UsingMicrosoftNETSdkWeb = true
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
 build_property.ProjectTypeGuids = 
 build_property.InvariantGlobalization = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
 build_property.PlatformNeutralAssembly = 
 build_property.EnforceExtendedAnalyzerRules = 
+build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.TargetFrameworkIdentifier = .NETCoreApp
+build_property.TargetFrameworkVersion = v10.0
 build_property.RootNamespace = BlazorAppM1GL
 build_property.RootNamespace = BlazorAppM1GL
 build_property.ProjectDir = /Users/elhadjimamadousarr/Desktop/projet/dotnet/BlazorAppM1GL/BlazorAppM1GL/
@@ -65,3 +73,7 @@ build_metadata.AdditionalFiles.CssScope = b-8w84lq5n1p
 [/Users/elhadjimamadousarr/Desktop/projet/dotnet/BlazorAppM1GL/BlazorAppM1GL/Components/Layout/ReconnectModal.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9MYXlvdXQvUmVjb25uZWN0TW9kYWwucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = b-rz2irau17f
+
+[/Users/elhadjimamadousarr/Desktop/projet/dotnet/BlazorAppM1GL/BlazorAppM1GL/Components/Pages/_Host.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9QYWdlcy9fSG9zdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
